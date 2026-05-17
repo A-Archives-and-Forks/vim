@@ -52632,6 +52632,8 @@ Other ~
 - |C-indenting| detects comments better.
 - The |package-hlyank| can now optionally highlight the last put region as
   well.
+- New argument handling for user commands |:command-nargs| using the "-nars=_"
+  attribute to handle completion of single arguments with spaces as expected.
 
 Platform specific ~
 -----------------
