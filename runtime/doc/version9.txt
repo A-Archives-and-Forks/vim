@@ -52688,6 +52688,7 @@ Options: ~
 			configure the height.
 't_BS'			Begin synchronized update.
 't_ES'			End synchronized update.
+'tagsecure'		Do not open remote files using tag commands
 'termresize'		Method for handling terminal resize events.
 'termsync'		Enable support for terminal DEC 2026 sync mode.
 'winhighlight'		Window-local highlight group mappings.
